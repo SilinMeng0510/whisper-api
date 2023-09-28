@@ -1,0 +1,7 @@
+speech_text.egg-info/
+constants.py
+audio_files/
+audio_segmented/
+.DS_Store
+__pycache__/
+venv/
